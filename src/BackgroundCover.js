@@ -1,7 +1,6 @@
 import React from "react";
 import styled, { createGlobalStyle } from "styled-components";
 import { useState } from "react";
-import { useEffect } from "react";
 import { useKey } from "react-use";
 
 const GlobalStyle = createGlobalStyle`
