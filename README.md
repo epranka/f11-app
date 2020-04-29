@@ -37,7 +37,7 @@ To toggle fullscreen mode press the F11 on your keyboard.
 To hide the instructions box, just click on it.
 To go back, press ESC on your keyboard or move the mouse to the right top corner of your screen.
 
-I hope you will find it useful for you 😊
+I hope you will find it useful for you 😊 Give me a :star: above if you liked it :heart:
 
 Have ideas on how to improve it? Feel free to share it on the [GitHub Issues](https://github.com/epranka/f11-app/issues).
 
