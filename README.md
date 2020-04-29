@@ -18,7 +18,7 @@
 
 <br />
 
-This is a web app that helps you to create the fullscreen background of any color or image. You can use it to create the background or cover on computer screen, projector, or any multimedia device. You can even make the green screen of your multimedia 😀
+This is a web app that helps you to create a fullscreen background of any color or image. You can use it to create the background or cover on a computer screen, projector, or any multimedia device. You can even make the green screen of your multimedia 😀
 
 <h2 align="center">How to use it? 🤔</h2>
 
